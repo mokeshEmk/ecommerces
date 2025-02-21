@@ -1,6 +1,6 @@
 # ecommerce
 
-Project Description
+**Project Description**
 This project is a ecommerce built using Python and SQLite as the database. It is designed to run on an AWS Ubuntu server and provides a simple yet powerful backend for handling data efficiently.
 The project is suitable for web applications, data processing, API. and ensures smooth deployment with minimal configuration.
 
